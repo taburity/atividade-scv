@@ -6,7 +6,8 @@
     <th>Cidade natal</th>
   </tr>
   <tr>
-    <td>Rodrigo</td>
-    <td>Maceio</td>
+    <td>Pedro Lucas</td>
+    <td>Quixaba</td>
   </tr>
+
 </table>
