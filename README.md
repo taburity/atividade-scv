@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Misael</td>
+    <td>Jupi</td>
+  </tr>
 </table>
