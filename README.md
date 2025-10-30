@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Kévna Cavalcanti</td>
+    <td>Arcoverde</td>
+  </tr>
 </table>
