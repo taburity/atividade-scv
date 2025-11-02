@@ -6,7 +6,7 @@
     <th>Cidade natal</th>
   </tr>
   <tr>
-    <td>Rodrigo</td>
-    <td>Maceio</td>
+    <td>Rodrigo<br>Luigi</td>
+    <td>Maceio<br>Venturosa</td>
   </tr>
 </table>
