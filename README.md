@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+  <td>Jose Portela</td>
+  <td>Surubim</td>
+  </tr>
 </table>
