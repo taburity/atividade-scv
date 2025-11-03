@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>José Matheus Leal</td>
+    <td>Vertentes</td>
+  </tr>
 </table>
