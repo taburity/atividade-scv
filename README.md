@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Felipe</td>
+    <td>Milagres - Ceará</td>
+    <td>
+      <a href="https://github.com/Felifelps">
+          github.com/Felifelps
+        </a>
+    </td>
+  </tr>
 </table>
