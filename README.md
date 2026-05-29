@@ -15,4 +15,12 @@
         </a>
     </td>
   </tr>
+  <td>Joaci Laurindo</td>
+    <td>Garnhuns</td>
+    <td>
+      <a href="https://github.com/joacif">
+          github.com/joacif
+        </a>
+    </td>
+  </tr>
 </table>
