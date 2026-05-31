@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+    <tr>
+    <td>Ricardo Matias de Lima</td>
+    <td>Jaboticabal</td>
+    <td>
+      <a href="https://github.com/RicardoMatiassl">
+           github.com/RicardoMatiass
+        </a>
+    </td>
+  </tr>
 </table>
