@@ -7,6 +7,15 @@
     <th>Perfil</th>
   </tr>
   <tr>
+    <td>Thaís</td>
+    <td>Recife</td>
+    <td>
+      <a href="https://github.com/taburit">
+          github.com/taburit
+        </a>
+    </td>
+  </tr>
+   <tr>
     <td>Rafael</td>
     <td>Garanhuns</td>
     <td>
