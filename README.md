@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Laura Mendes</td>
+    <td>Garanhuns</td>
+    <td>
+      <a href="https://github.com/l4uramendes">
+        github.com/l4uramendes
+      </a>
+    </td>
+  </tr>
 </table>
