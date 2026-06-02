@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Euclides Emanuel Laurindo de Oliveira Souza</td>
+    <td>Garanhuns</td>
+    <td>
+      <a href="https://github.com/euclideslaurindo">
+          github.com/euclideslaurindo
+        </a>
+    </td>
+  </tr>
 </table>
