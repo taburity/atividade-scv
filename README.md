@@ -15,4 +15,14 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Pedro Nunes</td>
+    <td>Porto Alegre</td>
+    <td>
+      <a href="https://github.com/PedrokaIsACoder">
+          github.com/PedrokaIsACoder
+        </a>
+    </td>
+  </tr>
 </table>
+
