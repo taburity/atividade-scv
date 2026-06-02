@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Tiago José Santos da Cunha</td>
+    <td>Tamandaré-PE</td>
+    <td>
+      <a href="https://github.com/tiagojose76">
+        github.com/tiagojose76
+      </a>
+    </td>
+  </tr>
 </table>
