@@ -12,7 +12,16 @@
     <td>
       <a href="https://github.com/taburity">
           github.com/taburity
-        </a>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Antonio Vieira</td>
+    <td>Garanhuns</td>
+    <td>
+      <a href="https://github.com/vieiraAnttonio">
+          github.com/vieiraAnttonio
+      </a>
     </td>
   </tr>
 </table>
