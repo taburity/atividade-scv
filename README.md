@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Carlos Lucas Feitoza</td>
+    <td>Recife</td>
+    <td>
+      <a href="https://github.com/hazdriel">
+          github.com/Hazdriel
+        </a>
+    </td>
+  </tr>
 </table>
