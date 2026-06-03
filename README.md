@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Misael</td>
+    <td>Jupi</td>
+    <td>
+      <a href="https://github.com/misaelmarques">
+          github.com/misaelmarques
+        </a>
+    </td>
+  </tr>
 </table>
