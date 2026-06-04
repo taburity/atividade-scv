@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+  <tr>
+      <td>Ayumi Rayani</td>
+      <td>São Paulo</td>
+      <td>
+        <a href="https://github.com/arayumi3">
+          github.com/arayumi3
+          </a>
+      </td>
+  </tr>
 </table>
