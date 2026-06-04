@@ -14,5 +14,13 @@
           github.com/taburity
         </a>
     </td>
+    <td>Maria Heloisa</td>
+    <td>Garanhuns</td>
+    <td>
+      <a href="https://github.com/heloisamsk">
+          github.com/heloisamsk
+        </a>
+    </td>
+
   </tr>
 </table>
