@@ -14,5 +14,13 @@
           github.com/taburity
         </a>
     </td>
+   <tr>
+    <td>Luís Arthur</td>
+    <td>Garanhuns</td>
+    <td>
+      <a href="https://github.com/lu1s-4rthur">
+          github.com/lu1s-4rthur
+        </a>
+    </td>
   </tr>
 </table>
