@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Arthur</td>
+    <td>Garanhuns</td>
+    <td>
+      <a href="https://github.com/thuramos">
+        github.com/thuramos
+      </a>
+    </td>
+  </tr>
 </table>
