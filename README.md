@@ -4,7 +4,7 @@
   <tr>
     <th>Nome completo</th>
     <th>Perfil</th>
-    <th>Intersse de aprendizado</th>
+    <th>Interesse de aprendizado</th>
     <th>Motivo</th>
   </tr>
   <tr>
