@@ -17,4 +17,16 @@
     <td>Desenvolvimento de agentes de IA</td>
     <td>Explorar a automação de tarefas de Engenharia de Software para uma futura disciplina optativa.</td>
   </tr>
+
+  <tr>
+    <td>José Renan Clemente Almeida</td>
+    <td>
+      <a href="https://github.com/RenanAllmeida">
+          github.com/RenanAllmeida
+        </a>
+    </td>
+    <td>Angular</td>
+    <td>Me preparar para o mercado de trabalho</td>
+  </tr>
+
 </table>
