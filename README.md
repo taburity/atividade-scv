@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <th>Nome completo</th>
-    <th>Perfil</th>
-    <th>Intersse de aprendizado</th>
-    <th>Motivo</th>
+    <th>Ray José Teixeira de Santana</th>
+    <th>https://github.com/RayTeixeira05</th>
+    <th>Desenvolvimento web</th>
+    <th>Quero aprender a criar sites e aplicações web, aprimorando minhas habilidades em programação</th>
   </tr>
   <tr>
     <td>Thaís Alves Burity Rocha</td>
