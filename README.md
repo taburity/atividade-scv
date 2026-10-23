@@ -17,4 +17,13 @@
     <td>Desenvolvimento de agentes de IA</td>
     <td>Explorar a automação de tarefas de Engenharia de Software para uma futura disciplina optativa.</td>
   </tr>
+  <tr>
+    <td>Ana Clara Silva De Farias</td>
+    <td>
+      <a href="https://github.com/anaclarasff">
+          github.com/anaclarasff
+        </a>
+    <td>TypeScript/JavaScript para desenvolvimento frontend<td>
+    <td>Quero aprofundar meus conhecimentos em uma área que me interesso e que gosto de estudar.</td>
+  </tr>
 </table>
