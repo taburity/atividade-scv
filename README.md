@@ -17,4 +17,15 @@
     <td>Desenvolvimento de agentes de IA</td>
     <td>Explorar a automação de tarefas de Engenharia de Software para uma futura disciplina optativa.</td>
   </tr>
+  <tr>
+    <td>Daniela Oliveira</td>
+    <td>
+      <a href="https://github.com/danisjc6">
+          github.com/danisjc6
+        </a>
+    </td>
+    <td>Deploy</td>
+    <td>Desenvolver ferramentas visuais para ensino 
+    de anatomia animal.</td>
+  </tr>
 </table>
