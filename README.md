@@ -17,4 +17,14 @@
     <td>Desenvolvimento de agentes de IA</td>
     <td>Explorar a automação de tarefas de Engenharia de Software para uma futura disciplina optativa.</td>
   </tr>
+  <tr>
+    <td>Erik Nascimento da Silva</td>
+    <td>
+      <a href="https://github.com/1ErikNS">
+          github.com/1ErikNS
+        </a>
+    </td>
+    <td>Desenvolvimento Web</td>
+    <td>Adquirir conhecimentos sobre html, css, javascript e banco de dados para meu desenvolvimento pessoal</td>
+  </tr>
 </table>
