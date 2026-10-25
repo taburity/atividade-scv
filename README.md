@@ -2,10 +2,14 @@
 
 <table>
   <tr>
-    <th>Nome completo</th>
-    <th>Perfil</th>
-    <th>Intersse de aprendizado</th>
-    <th>Motivo</th>
+    <td>Samyle Alves Oliveira</td>
+    <td>
+    <a href="https://github.com/samylealves">
+          github.com/samylealves
+        </a>
+        </td>
+    <th>Java script</th>
+    <th>Achei Java organizada e quero entender suas diferenças em relação ao JS</th>
   </tr>
   <tr>
     <td>Thaís Alves Burity Rocha</td>
