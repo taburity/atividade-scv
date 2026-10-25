@@ -8,13 +8,13 @@
     <th>Motivo</th>
   </tr>
   <tr>
-    <td>Thaís Alves Burity Rocha</td>
+    <td>Tarcísio José Lorêto dos Santos</td>
     <td>
-      <a href="https://github.com/taburity">
-          github.com/taburity
+      <a href="https://github.com/Loreto01">
+          github.com/Loreto01
         </a>
     </td>
-    <td>Desenvolvimento de agentes de IA</td>
-    <td>Explorar a automação de tarefas de Engenharia de Software para uma futura disciplina optativa.</td>
+    <td>Cyber security</td>
+    <td>Interesse em iniciar minha carreira na área.</td>
   </tr>
 </table>
