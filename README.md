@@ -1,11 +1,21 @@
 # atividade-scv
 
 <table>
-  <tr>
+<tr>
     <th>Nome completo</th>
     <th>Perfil</th>
-    <th>Intersse de aprendizado</th>
+    <th>Interesse de aprendizado</th>
     <th>Motivo</th>
+</tr>
+  <tr>
+    <td>José Lucas Jordão da Silva</td>
+    <td>
+    <a href="https://github.com/ljorda0">
+          github.com/ljorda0
+        </a>
+    </td>      
+    <td>Desenvolvimento web</td>
+    <td>Aprimorar meus conhecimentos em programação e desenvolver soluções de software</td>
   </tr>
   <tr>
     <td>Thaís Alves Burity Rocha</td>
