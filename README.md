@@ -17,4 +17,14 @@
     <td>Desenvolvimento de agentes de IA</td>
     <td>Explorar a automação de tarefas de Engenharia de Software para uma futura disciplina optativa.</td>
   </tr>
+    <tr>
+    <td>Breno Viana Cavalcante</td>
+    <td>
+      <a href="https://github.com/CavBreno">
+        github.com/CavBreno
+      </a>
+    </td>
+    <td>Python / Pandas</td>
+    <td>Aprender mais sobre análise de dados</td>
+  </tr>
 </table>
