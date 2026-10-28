@@ -17,4 +17,14 @@
     <td>Desenvolvimento de agentes de IA</td>
     <td>Explorar a automação de tarefas de Engenharia de Software para uma futura disciplina optativa.</td>
   </tr>
+  <tr>
+    <td>Francisco Gomes da Silva Junior</td>
+    <td>
+      <a href="https://github.com/SrTartaruga">
+          github.com/SrTartaruga
+        </a>
+    </td>
+    <td>SQL(Structured Query Language)</td>
+    <td>Uma ferramente essencial para o curriculo.</td>
+  </tr>
 </table>
